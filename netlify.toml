@@ -27,6 +27,7 @@ SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
+LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 # 左方選單是否展開
 SIDEBAR_COLLAPSED = "true"
