@@ -20,7 +20,7 @@ Topics:: [[git]] [[BlogNote]]
 
 ### 使用方式
 1. 將修改的先加入暫存區 (同Visual Studio 加入到stage)
->git add --all
+> git add --all
 
 2. 簽入加上參數 --amend --no-edit
 > git commit --amend --no-edit
@@ -33,7 +33,7 @@ commit沒有增加，但內容已由v3變成 **v3-1**
 有時簽入時，才發現訊息寫錯了，想修改該如何做? 本例示範將"訂單新增API v3" 改成"訂單新增API v3 **OK**"
 ### 使用方式
 簽入加上參數 --amend  **-m** 參數
->git commit --amend -m "訂單新增API v3 OK"
+> git commit --amend -m "訂單新增API v3 OK"
 
 一樣是3個commit，但最後一個訊息已加上"OK"
 
