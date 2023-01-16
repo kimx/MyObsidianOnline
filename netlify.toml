@@ -29,7 +29,7 @@ HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
 # 左方選單是否展開
-SIDEBAR_COLLAPSED = "TRUE"
+SIDEBAR_COLLAPSED = "true"
 # 頁尾資訊
 FOOTER = ""
 # (Optional, default main) Root section name.
