@@ -1,0 +1,16 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "200.Calendar/0.Current Month/WL-2022.12.28.md",
+      "date": "Wed Dec 28 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4
+}

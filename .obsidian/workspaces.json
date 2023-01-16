@@ -1,0 +1,647 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "b49dbc935adba2ce",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c752973d35c7ff8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59b5d7794d654e2a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "600.Extra/00.Dashboard/Dashboard.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "f1fe10738212b841",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300.Cards/300.Obsidian/C-我的Obsidian筆記使用方式.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b2b378cac55e7a30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "500.Source/40.Video/R-Build a personal project dashboard in Obsidian.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "402d359803dfc646",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "500.Source/10.Article/R-由程式指定 IConfiguration 設定值測試 ASP.NET Core 服務.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ef981509bfef71c3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "500.Source/40.Video/R-Comprehensive Obsidian Zettelkasten Workflow.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ffae1701ab7f58c7",
+        "type": "split",
+        "children": [
+          {
+            "id": "97014ca9fd1edb7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "779dbf731c1fac02",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#kim",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "046fd3356bf99886",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3de95f4692626d3c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "32848599e5b1c44a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "5dc9681fe1447f64",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca2201c6472e67eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6c0a0a8886d04f1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "500.Source/40.Video/R-Comprehensive Obsidian Zettelkasten Workflow.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7337264084b8fc26",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "500.Source/40.Video/R-Comprehensive Obsidian Zettelkasten Workflow.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a36fafe089770488",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "500.Source/40.Video/R-Comprehensive Obsidian Zettelkasten Workflow.md"
+                  }
+                }
+              },
+              {
+                "id": "2ab0b99fcafa1d68",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1d74928cff46774c",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b477568bdfe69f7",
+                "type": "leaf",
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 432.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "omnisearch:Omnisearch": false,
+          "homepage:Open homepage": false
+        }
+      },
+      "active": "3de95f4692626d3c"
+    },
+    "Daily": {
+      "main": {
+        "id": "b49dbc935adba2ce",
+        "type": "split",
+        "children": [
+          {
+            "id": "9ac533b84b4511ea",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "2544b970744b9a08",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "WL-2022.12.28",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"200.Calendar/0.Current Month/WL-2022.12.28.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Dashboard",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"600.Extra/00.Dashboard/Dashboard.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20.Calendar/21.Current Month/WL-2022.12.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "26dff5a8ced3e40f",
+            "type": "tabs",
+            "dimension": 38.1631037212985,
+            "children": [
+              {
+                "id": "7ba629f45b561c64",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "WL-2022.12.28",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"200.Calendar/0.Current Month/WL-2022.12.28.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Dashboard",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"600.Extra/00.Dashboard/Dashboard.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20.Calendar/21.Current Month/WL-2022.12.28.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "96f35a032cbcd98f",
+            "type": "tabs",
+            "dimension": 28.50356294536817,
+            "children": [
+              {
+                "id": "1d74c5f39dbdf929",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20.Calendar/21.Current Month/WL-2022.12.29.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ffae1701ab7f58c7",
+        "type": "split",
+        "children": [
+          {
+            "id": "97014ca9fd1edb7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "779dbf731c1fac02",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3de95f4692626d3c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "32848599e5b1c44a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "046fd3356bf99886",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "878462a8a9165e61",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "5dc9681fe1447f64",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca2201c6472e67eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e6c0a0a8886d04f1",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "20.Calendar/21.Current Month/WL-2022.12.29.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7337264084b8fc26",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "20.Calendar/21.Current Month/WL-2022.12.29.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a36fafe089770488",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "20.Calendar/21.Current Month/WL-2022.12.29.md"
+                  }
+                }
+              },
+              {
+                "id": "2ab0b99fcafa1d68",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1d74928cff46774c",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8b477568bdfe69f7",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "graph-analysis",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b14a6d66aa80ac82",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "Strange New Worlds",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes": true,
+          "templater-obsidian:Templater": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "markdown-table-editor:Open Markdown Table Editor": true,
+          "periodic-notes:Open today": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-metatable:Metatable": false,
+          "dbfolder:Create a new database table": false
+        }
+      },
+      "active": "1d74c5f39dbdf929"
+    }
+  },
+  "active": "Daily"
+}

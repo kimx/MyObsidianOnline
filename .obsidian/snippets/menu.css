@@ -1,0 +1,42 @@
+div[data-path="00.Inbox"] .nav-folder-title-content::before
+{
+  content: "📧";
+}
+
+div[data-path="10.Spaces"] .nav-folder-title-content::before
+{
+  content: "\2705";
+}
+
+div[data-path="20.Calendar"] .nav-folder-title-content::before
+{
+  content: "\1f5d3";
+}
+
+div[data-path="30.Cards"] .nav-folder-title-content::before
+{
+  content: "🗂️";
+}
+
+
+div[data-path="40.MOC"] .nav-folder-title-content::before
+{
+  content: "🗺️";
+}
+
+div[data-path="50.Source"] .nav-folder-title-content::before
+{
+  content: "📥️";
+}
+
+div[data-path="60.Extra"] .nav-folder-title-content::before
+{
+  content: "\1F308";
+}
+
+
+div[data-path="90.Archive"] .nav-folder-title-content::before
+{
+  content: "\1F4E9";
+}
+
