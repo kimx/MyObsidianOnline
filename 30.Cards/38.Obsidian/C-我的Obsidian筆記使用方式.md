@@ -56,7 +56,7 @@ status: 🟩
 # See Also
 - [[C-我的Obsidian快捷鍵]]
 - [[C-我的Obsidian標籤及狀態]]
-- [[C-使用Netlify發佈Obsidian筆記]]
+- [[B-使用Netlify發佈Obsidian筆記]]
 
 # Reference
 - [[R-2022-12-22 魔改子彈筆記法]]
