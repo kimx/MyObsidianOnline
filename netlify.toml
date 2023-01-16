@@ -4,7 +4,7 @@ publish = "public"
 
 [build.environment]
 LANDING_BUTTON = "進入"
-LANDING_TITLE = "Kimxinfo個人筆記分享"
+LANDING_TITLE = "Kimxinfo Obsidian"
 LANDING_DESCRIPTION = "做筆記是現在的你，幫未來的你。"
 # 首面的筆記名稱
 LANDING_PAGE = "home"
