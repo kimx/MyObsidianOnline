@@ -11,7 +11,7 @@ status: 🟩
 
 # 基本資訊
 - Name: 
-- URL: 
+- URL:: https://yurenju.medium.com/
 - EMail:
 - 
 # 其他
