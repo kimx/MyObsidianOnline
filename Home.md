@@ -1,1 +1,1 @@
-Home
+這裡為Obsidian筆記分享區。

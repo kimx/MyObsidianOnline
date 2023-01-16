@@ -7,7 +7,7 @@ status: 🟩
 ---
 ### Metadata
 Tags:: #🗂️/🌲  
-Topics:: [[DevOps]]
+Topics:: [[DevOps]] [[git]]
 
 
 # Foreword
