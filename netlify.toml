@@ -11,7 +11,7 @@ LANDING_PAGE = "home"
 PYTHON_VERSION = "3.8"
 # 你的Github儲存庫
 REPO_URL = "https://github.com/kimx/MyObsidianOnline"
-SITE_TITLE = "Kimxinfo個人筆記分享"
+SITE_TITLE = "Kimxinfo Obsidian"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Kimxinfo"
 # (REQUIRED) Netlify site URL
