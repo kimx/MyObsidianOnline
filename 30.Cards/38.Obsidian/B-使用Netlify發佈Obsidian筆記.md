@@ -66,7 +66,7 @@ HOME_GRAPH = "y"
 LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 # 左方選單是否展開
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "true"
 # 頁尾資訊
 FOOTER = ""
 # (Optional, default main) Root section name.
