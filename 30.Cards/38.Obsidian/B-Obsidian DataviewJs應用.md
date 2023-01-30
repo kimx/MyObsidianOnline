@@ -6,7 +6,7 @@ type: blog
 status: 🟩
 ---
 ### Metadata
-Tags:: #🗂️/🌱️
+Tags:: #🗂️/🌲 
 Topics:: [[Obsidian]]
 
 # Foreword

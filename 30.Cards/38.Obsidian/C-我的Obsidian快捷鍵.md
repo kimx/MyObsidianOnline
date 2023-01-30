@@ -5,7 +5,7 @@ updated: 2022-12-26
 status: 🟩
 ---
 ### Metadata
-- Tags:: #🗂️/🌞  #⚙
+- Tags:: #🗂️/🌲   #⚙
 - Topics:: [[筆記軟體]] [[Obsidian]]
 
 # Content

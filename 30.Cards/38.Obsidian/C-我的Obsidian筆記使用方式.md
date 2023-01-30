@@ -5,7 +5,7 @@ updated: 2023-01-05
 status: 🟩
 ---
 ### Metadata
-- Tags:: #🗂️/🌞  #⚙ 
+- Tags:: #🗂️/🌲   #⚙ 
 - Topics:: [[筆記軟體]] [[Obsidian]]
 
 # Foreword
