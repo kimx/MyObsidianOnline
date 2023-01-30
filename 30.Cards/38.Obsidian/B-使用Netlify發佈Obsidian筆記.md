@@ -30,7 +30,7 @@ Topics:: [[Obsidian]] [[線上資源]]
 1. 在Github建一個新的Repository，將你Obsidian要公開的筆記及.obsidian資料夾複製過來，並新增檔案**Home.md**及**netlify.toml**，如下圖所示
 - ![upgit_20230116_1673834658.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/01/upgit_20230116_1673834658.png)
 - Home.md 不用修改，只是作為入口首頁。
-- neltify.toml 修改參數:
+- netlify.toml 修改參數:
 	- REPO_URL : Github 位置
 	- SITE_URL: netlify的URL
 ```
@@ -110,7 +110,7 @@ GRAPH_OPTIONS = """
 
 2. 使用Github註冊[Netlify](https://www.netlify.com/)，加入新網站，選擇匯入來源Github![upgit_20230113_1673594927.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/01/upgit_20230113_1673594927.png)
 - 匯進去時，會自動配給你一個URL，可以在Site settings修改，或者是使用你自己的Domain。![upgit_20230113_1673595030.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/01/upgit_20230113_1673595030.png)
-- 本文設定為kimxinfo-netlifyobsidianlab，URL為https://kimxinfo-netlifyobsidianlab.netlify.app/，此URL要回填到neltify.toml的**SITE_URL**參數上。
+- 本文設定為kimxinfo-netlifyobsidianlab，URL為https://kimxinfo-netlifyobsidianlab.netlify.app/，此URL要回填到netlify.toml的**SITE_URL**參數上。
 3. 簽入Github後，會觸發建置，成功後自動部署。![[Pasted image 20230113153610.png]]
 4. 檢視網站，點中間Button進入首頁![upgit_20230113_1673595449.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/01/upgit_20230113_1673595449.png)
 ![upgit_20230113_1673595512.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/01/upgit_20230113_1673595512.png)
