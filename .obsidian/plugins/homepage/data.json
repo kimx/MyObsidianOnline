@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "defaultNote": "60.Extra/60.Dashboard/Dashboard",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
+  "workspace": "Home",
+  "workspaceEnabled": false,
+  "hasRibbonIcon": true,
+  "openMode": "Replace all open notes",
+  "manualOpenMode": "Keep open notes",
+  "view": "Default view",
+  "refreshDataview": false,
+  "autoCreate": false
+}

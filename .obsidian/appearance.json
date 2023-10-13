@@ -1,0 +1,17 @@
+{
+  "accentColor": "#2178c4",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "common",
+    "kimStyle",
+    "menu",
+    "clutter-free-headings",
+    "dashboard",
+    "custom-admonitions.a56f1b",
+    "OmniSearch",
+    "BlueTopaz-Exten",
+    "common-extend"
+  ]
+}

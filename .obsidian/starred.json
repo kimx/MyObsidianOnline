@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "2023-01",
+      "path": "20.Calendar/23.MonthlyNotes/2023-01.md"
+    },
+    {
+      "type": "file",
+      "title": "我的Obsidian快捷鍵",
+      "path": "30.Cards/38.Obsidian/C-我的Obsidian快捷鍵.md"
+    },
+    {
+      "type": "file",
+      "title": "我的Obsidian筆記使用方式",
+      "path": "30.Cards/38.Obsidian/C-我的Obsidian筆記使用方式.md"
+    },
+    {
+      "type": "file",
+      "title": "S-2022-12-26 筆記系統",
+      "path": "10.Spaces/12.Project/S-2022-12-26 筆記系統.md"
+    },
+    {
+      "type": "file",
+      "title": "C-我的Obsidian標籤及狀態",
+      "path": "30.Cards/38.Obsidian/C-我的Obsidian標籤及狀態.md"
+    },
+    {
+      "type": "file",
+      "title": "Note Reviews",
+      "path": "60.Extra/60.Dashboard/Note Reviews.md"
+    }
+  ]
+}

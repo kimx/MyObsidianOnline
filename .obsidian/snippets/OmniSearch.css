@@ -1,0 +1,29 @@
+/* 搜尋到的符合字串高亮 */
+.omnisearch-highlight {
+  color: var(--text-normal);
+  background-color: var(--text-highlight-bg);
+}
+
+.omnisearch-result {
+  border-bottom: 1px solid gray;
+}
+
+/* alternative row style */
+.omnisearch-result:nth-of-type(even) {
+  background-color: #d8e8f2; /*var(--text-highlight-bg);*/
+  /*border-bottom: 1px solid var(--text-highlight-bg);*/
+}
+
+.omnisearch-result.is-selected {
+  border: 1px solid var(--color-accent);
+}
+
+/* 讓符合數字靠右 */
+.omnisearch-result__counter {
+  float:right;
+}
+
+/* 設定結果項目的寬度為100%, 符合數字才會在最右側 */
+.omnisearch-result div div {
+  width: 100%;
+}
