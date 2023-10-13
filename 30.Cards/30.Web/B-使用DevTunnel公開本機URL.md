@@ -5,7 +5,7 @@ updated: 2023-10-13
 type: blog
 status: 🟩
 tags:
-  - 🗂️/🌱️
+  - 🗂️/🌞️
 topics:
   - "[[Visual Studio]]"
 publish: true
@@ -35,7 +35,7 @@ winget install Microsoft.devtunnel
 devtunnel user login
 ```
 - ![upgit_20231013_1697160121.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/10/upgit_20231013_1697160121.png)
-- 執行本機程式，http port 50893 ps:**不能使用https** 
+- 執行本機程式，<font color="#ff0000">http</font> port 50893 ps:**不能使用<font color="#ff0000">https**</font> 
    ![upgit_20231013_1697162566.png](https://raw.githubusercontent.com/kimx/ObsidianAssets/master/2023/10/upgit_20231013_1697162566.png)
 
 - 執行devtunnel 將本機程式公開，並允許匿使用者可以瀏覽
