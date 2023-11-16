@@ -10,7 +10,6 @@ publish: true
 Tags:: #🗂️/🌲  
 Topics:: [[DevOps]] [[git]]
 
-
 # Foreword
 - 從Evenote搬過來的git emoji參考。
 
