@@ -10,7 +10,13 @@ publish: true
 - Tags:: #🗺️
 - Topics:: [[程式開發]]
 
-# 基本資訊
-- 
+# 重記記錄
+## DI
+- 自行注入Logger: 
+``` C#
+var logger = serviceProvider.GetRequiredService<ILogger<MyType>>();
+```
+
+- 關於Console LogLevel，在AppSetting是根據命名空間來看。
 # 其他
 - 

@@ -34,8 +34,8 @@ publish: true
 	- M
 - 🕸️ MOC 
 - 📍地標
-- 💝 已透過其他軟體分享出去
-	- Metadata 欄位 publish方便查詢
+- #Achievements💝 有成果的，例如:Lab Code
+- Metadata 欄位 publish方便查詢
 - GTD
 	- #GTD/🔅fleeting 靈感/臨時想法
 	- #GTD/📖to-read

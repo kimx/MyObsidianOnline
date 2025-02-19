@@ -1,8 +1,8 @@
 ---
-aliases : []
+aliases: 
 created: 2023-02-14
 updated: 2023-02-14
-type: card/blog
+type: card
 status: 🟩
 publish: true
 ---
