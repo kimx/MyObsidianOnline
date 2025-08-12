@@ -11,7 +11,7 @@ publish: true
 - Topics:: [[程式開發]]
 
 # 重記記錄
-## DI
+## DI，
 - 自行注入Logger: 
 ``` C#
 var logger = serviceProvider.GetRequiredService<ILogger<MyType>>();

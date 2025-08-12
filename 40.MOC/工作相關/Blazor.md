@@ -30,4 +30,4 @@ keywords:
     };
 ```
 # 其他
-- 
+- [[@Robin]] [ChatGPT - Blazor 發展與建議](https://chatgpt.com/share/6864e234-311c-8002-ad62-a39fcf3e8e1d)
