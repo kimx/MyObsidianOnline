@@ -29,5 +29,10 @@ keywords:
 
     };
 ```
+
+- Blazor多國語系
+	- E:\OneDrive\Tech\Blazor\BlazorLangLab
+	- [Shared Resource架構](https://gemini.google.com/gem/a1cb0a1fc24a/a7c178a375376ec6)
+	- [使用Claims切換](https://grok.com/c/224b5799-a9a6-42e3-abda-bc14c260a967)
 # 其他
 - [[@Robin]] [ChatGPT - Blazor 發展與建議](https://chatgpt.com/share/6864e234-311c-8002-ad62-a39fcf3e8e1d)

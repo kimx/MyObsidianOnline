@@ -52,7 +52,12 @@ SELECT
 FROM sys.dm_exec_describe_first_result_set(N'dbo.VCALENDAR_Query', NULL, 0);
 
 ```
-
+- 針對預存沒權限處理 [[@George]]
+	- EXEC dev.DBA_Grant_Permissions 'ERP_DataAccess', 1
+# 資料庫加入使用者
+```
+USE [GuruERP_Center] GO CREATE USER [CorexERP_WebAppUser] FOR LOGIN [CorexERP_WebAppUser] GO USE [GuruERP_Center] GO ALTER ROLE [db_datareader] ADD MEMBER [CorexERP_WebAppUser] GO USE [GuruERP_Center] GO ALTER ROLE [db_datawriter] ADD MEMBER [CorexERP_WebAppUser] GO
+```
 # 效能
 - [更新統計資訊 Statistics](https://chat.openai.com/share/da6476b5-e1b2-48c6-a5e5-43a1ee46b429) [[@Robin]]
 	- [https://youtu.be/5Ti75MZ_Pr0?si=Bo0Im6Ks_x81eHrt](https://youtu.be/5Ti75MZ_Pr0?si=Bo0Im6Ks_x81eHrt "https://youtu.be/5Ti75MZ_Pr0?si=Bo0Im6Ks_x81eHrt")
