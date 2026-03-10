@@ -83,7 +83,7 @@ deploy-job:
   before_script:
     - get-childItem
   script:
-    - dotnet publish TinaERP.Application.Server/TinaERP.Application.Server.csproj /p:PublishProfile=bud4net-ap1-iis /p:password=CK@28000543 -c Release --self-contained true -r win-x64 
+    - dotnet publish TinaERP.Application.Server/TinaERP.Application.Server.csproj /p:PublishProfile=bud4net-ap1-iis /p:password=CK -c Release --self-contained true -r win-x64 
 
 ```
 

@@ -29,7 +29,7 @@ services:
     environment:
       GITLAB_OMNIBUS_CONFIG: |
         external_url "http://localhost:8088/"
-        gitlab_rails['initial_root_password'] = 'CK@kim28000543'
+        gitlab_rails['initial_root_password'] = ''
         gitlab_rails['manage_backup_path'] = true
         gitlab_rails['backup_path'] = "/var/opt/gitlab/backups"
         gitlab_rails['backup_archive_permissions'] = 0644
@@ -88,7 +88,7 @@ volumes:
 ## 3.測試GitLab
 - 瀏覽 http://localhost:8088/
 	- root
-	- CK@kim28000543
+	- 
 ## 4.其他
 - Q: Volume無法刪除?
 - A: 容器先停止，在Docker Destop UI，重新啟動Docker，再停止容器並刪除，再去刪除Volume。 ps:不行刪的話，就再重新作一次剛的動作。

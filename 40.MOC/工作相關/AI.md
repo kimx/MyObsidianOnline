@@ -11,7 +11,7 @@ publish: true
 - Topics:: 
 
 # 基本資訊
-- 
+- 很棒的思考文: https://agile3uncles.com/2026/02/01/ai-coding-result-survey/
 # 待學習
 - [x] [[@Robin]] [Spec-kit](https://github.com/github/spec-kit)，AI Coding框架 ✅ 2025-12-08
 	- [x] https://www.youtube.com/watch?v=t2ibW6esB4E ✅ 2025-12-08
@@ -60,3 +60,7 @@ Spec Kit 工具包使用以下 5 個指令，逐步完成開發一個功能：
 加入 --- 區隔。
 再輸出繁體中文翻譯。
 ```
+
+# 未來參考
+- MindsDB AI SQL  #GTD/🌀future 
+- 將文件變成AI可以懂的markdown文件,[markitdown](https://github.com/microsoft/markitdown)
